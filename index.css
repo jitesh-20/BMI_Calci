@@ -1,0 +1,52 @@
+body {
+    background-image: url('Images/pexels-n-voitkevich-6120166.jpg');
+    background-size: cover;
+}
+
+.maindiv {
+    text-align: center;
+}
+
+.instructions {
+    text-align: center;
+}
+
+.height {
+    margin: 10px;
+}
+
+.weight {
+    margin: 10px;
+}
+
+#heighttxt {
+    height: 20px;
+    border: 2px solid black;
+    border-radius: 5px;
+    text-align: center;
+}
+
+#weighttxt {
+    height: 20px;
+    border: 2px solid black;
+    border-radius: 5px;
+    text-align: center;
+}
+
+#calcibtn {
+    width: 100px;
+    height: 30px;
+    border: 2px solid black;
+    border-radius: 5px;
+    font-size: 15px;
+    color: black;
+}
+
+#clearbtn {
+    width: 100px;
+    height: 30px;
+    border: 2px solid black;
+    border-radius: 5px;
+    font-size: 15px;
+    color: black;
+}
